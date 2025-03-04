@@ -1,0 +1,10 @@
+streamlit
+pydantic
+typing-extensions
+python-dotenv
+langchain
+langchain_groq
+langchain_community
+langchain_core
+tavily-search
+json
